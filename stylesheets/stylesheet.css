@@ -255,8 +255,8 @@ optgroup,
 select,
 textarea {
   margin: 0; /* 3 */
-  font: inherit; /* 2 */
-  color: inherit; /* 1 */
+  font: white; /* 2 */
+  color: blue; /* 1 */
 }
 
 /**
